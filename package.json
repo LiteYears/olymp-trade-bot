@@ -1,0 +1,23 @@
+{
+  "name": "olymp-trade-cli-bot",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "lint": "tsc --noEmit",
+    "cli": "tsx src/cli.ts",
+    "login": "tsx src/login.ts"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "puppeteer-core": "^25.1.0",
+    "ws": "^8.21.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "@types/ws": "^8.18.1",
+    "esbuild": "^0.25.0",
+    "tsx": "^4.21.0",
+    "typescript": "~5.8.2"
+  }
+}
