@@ -1,0 +1,43 @@
+[2026-06-16T04:12:41.513Z] [INFO] [Network] Opening WebSocket connection to wss://ws.olymptrade.com/otp?cid_ver=1&cid_app=web%40OlympTrade%402026.2.1763569%401763569&cid_device=%40%40phone&cid_os=android%4016
+[2026-06-16T04:12:42.327Z] [INFO] [Network] WebSocket connected.
+[2026-06-16T04:12:42.444Z] [INFO] [Account] Balance updated via event 55/1043: 61286.4 -> 61286.4
+[2026-06-16T04:13:07.329Z] [INFO] [Network] Sending heartbeat ping (Event 90)
+[2026-06-16T04:13:32.329Z] [INFO] [Network] Sending heartbeat ping (Event 90)
+[2026-06-16T04:13:57.329Z] [INFO] [Network] Sending heartbeat ping (Event 90)
+[2026-06-16T04:14:22.330Z] [INFO] [Network] Sending heartbeat ping (Event 90)
+[2026-06-16T04:14:47.332Z] [INFO] [Network] Sending heartbeat ping (Event 90)
+[2026-06-16T04:15:12.332Z] [INFO] [Network] Sending heartbeat ping (Event 90)
+[2026-06-16T04:15:37.333Z] [INFO] [Network] Sending heartbeat ping (Event 90)
+[2026-06-16T04:16:02.333Z] [INFO] [Network] Sending heartbeat ping (Event 90)
+[2026-06-16T04:16:16.295Z] [INFO] [Network] Opening WebSocket connection to wss://ws.olymptrade.com/otp?cid_ver=1&cid_app=web%40OlympTrade%402026.2.1763569%401763569&cid_device=%40%40phone&cid_os=android%4016
+[2026-06-16T04:18:16.377Z] [INFO] [Network] Opening WebSocket connection to wss://ws.olymptrade.com/otp?cid_ver=1&cid_app=web%40OlympTrade%402026.2.1763569%401763569&cid_device=%40%40phone&cid_os=android%4016
+[2026-06-16T04:18:19.802Z] [INFO] [Network] WebSocket connected.
+[2026-06-16T04:18:20.744Z] [INFO] [Account] Balance updated via event 55/1043: 61286.4 -> 61286.4
+[2026-06-16T04:18:44.805Z] [INFO] [Network] Sending heartbeat ping (Event 90)
+[2026-06-16T04:19:09.805Z] [INFO] [Network] Sending heartbeat ping (Event 90)
+[2026-06-16T04:20:14.838Z] [INFO] [Network] Opening WebSocket connection to wss://ws.olymptrade.com/otp?cid_ver=1&cid_app=web%40OlympTrade%402026.2.1763569%401763569&cid_device=%40%40phone&cid_os=android%4016
+[2026-06-16T04:20:15.814Z] [INFO] [Network] WebSocket connected.
+[2026-06-16T04:20:15.930Z] [INFO] [Account] Balance updated via event 55/1043: 61286.4 -> 61286.4
+[2026-06-16T04:20:40.815Z] [INFO] [Network] Sending heartbeat ping (Event 90)
+[2026-06-16T04:21:05.815Z] [INFO] [Network] Sending heartbeat ping (Event 90)
+[2026-06-16T04:21:30.816Z] [INFO] [Network] Sending heartbeat ping (Event 90)
+[2026-06-16T04:21:55.816Z] [INFO] [Network] Sending heartbeat ping (Event 90)
+[2026-06-16T04:25:18.589Z] [INFO] [Network] Opening WebSocket connection to wss://ws.olymptrade.com/otp?cid_ver=1&cid_app=web%40OlympTrade%402026.2.1763569%401763569&cid_device=%40%40phone&cid_os=android%4016
+[2026-06-16T04:25:19.428Z] [INFO] [Network] WebSocket connected.
+[2026-06-16T04:25:19.549Z] [INFO] [Account] Balance updated via event 55/1043: 61286.4 -> 61286.4
+[2026-06-16T04:25:44.431Z] [INFO] [Network] Sending heartbeat ping (Event 90)
+[2026-06-16T04:26:09.432Z] [INFO] [Network] Sending heartbeat ping (Event 90)
+[2026-06-16T04:26:34.432Z] [INFO] [Network] Sending heartbeat ping (Event 90)
+[2026-06-16T04:26:59.432Z] [INFO] [Network] Sending heartbeat ping (Event 90)
+[2026-06-16T04:27:24.433Z] [INFO] [Network] Sending heartbeat ping (Event 90)
+[2026-06-16T04:27:49.432Z] [INFO] [Network] Sending heartbeat ping (Event 90)
+[2026-06-16T04:28:14.433Z] [INFO] [Network] Sending heartbeat ping (Event 90)
+[2026-06-16T04:28:39.433Z] [INFO] [Network] Sending heartbeat ping (Event 90)
+[2026-06-16T04:29:04.434Z] [INFO] [Network] Sending heartbeat ping (Event 90)
+[2026-06-16T04:29:29.434Z] [INFO] [Network] Sending heartbeat ping (Event 90)
+[2026-06-16T04:29:51.150Z] [INFO] [Network] Opening WebSocket connection to wss://ws.olymptrade.com/otp?cid_ver=1&cid_app=web%40OlympTrade%402026.2.1763569%401763569&cid_device=%40%40phone&cid_os=android%4016
+[2026-06-16T04:30:06.633Z] [INFO] [Network] WebSocket connected.
+[2026-06-16T04:30:07.238Z] [INFO] [Account] Balance updated via event 55/1043: 61286.4 -> 61286.4
+[2026-06-16T04:34:35.042Z] [INFO] [Network] Opening WebSocket connection to wss://ws.olymptrade.com/otp?cid_ver=1&cid_app=web%40OlympTrade%402026.2.1763569%401763569&cid_device=%40%40phone&cid_os=android%4016
+[2026-06-16T04:34:41.640Z] [INFO] [Network] WebSocket connected.
+[2026-06-16T04:34:42.347Z] [INFO] [Account] Balance updated via event 55/1043: 61286.4 -> 61286.4
